@@ -1,0 +1,83 @@
+accent	L=#1DAA61	D=#21C063
+accent-deemphasized	L=#D9FDD3	D=#103529
+accent-emphasized	L=#15603E	D=#D9FDD3
+background-dimmer	L=rgb(0, 0, 0, .32)	D=rgb(0, 0, 0, .32)
+background-elevated-wash-inset	L=#F7F5F3	D=#1D1F1F
+background-elevated-wash-plain	L=#FFFFFF	D=#1D1F1F
+background-wash-inset	L=#F7F5F3	D=#161717
+background-wash-plain	L=#FFFFFF	D=#161717
+components-active-list-row	L=rgba(194, 189, 184, .15)	D=rgba(255, 255, 255, .1)
+components-filter-surface-selected	L=#D9FDD3	D=#103529
+components-outline-profile-photo	L=rgba(0, 0, 0, .1)	D=rgba(255, 255, 255, .1)
+components-platform-gesture-bar	L=rgba(0, 0, 0, .5)	D=rgba(255, 255, 255, .6)
+components-platform-status-bar	L=rgba(0, 0, 0, .8)	D=#FFFFFF
+components-profile-photo-content-brown	L=#855538	D=#DBA685
+components-profile-photo-content-cobalt	L=#0063CB	D=#53A6FD
+components-profile-photo-content-gray	L=#757778	D=#BDBDBD
+components-profile-photo-content-green	L=#1B8755	D=#25D366
+components-profile-photo-content-orange	L=#C4532D	D=#FC9775
+components-profile-photo-content-pink	L=#D42A66	D=#FF72A1
+components-profile-photo-content-purple	L=#5E47DE	D=#A791FF
+components-profile-photo-content-red	L=#B80531	D=#FB5061
+components-profile-photo-content-sky-blue	L=#027EB5	D=#53BDEB
+components-profile-photo-content-teal	L=#028377	D=#42C7B8
+components-profile-photo-content-yellow	L=#9D6C2C	D=#FFD279
+components-profile-photo-status-ring-close-friends	L=#C15ADD	D=#C15ADD
+components-profile-photo-surface-brown	L=#F4DED1	D=#35271E
+components-profile-photo-surface-cobalt	L=#D2E8FE	D=#092642
+components-profile-photo-surface-gray	L=#EEEEEE	D=#242626
+components-profile-photo-surface-green	L=#D9FDD3	D=#103529
+components-profile-photo-surface-orange	L=#FEE2D8	D=#35221E
+components-profile-photo-surface-pink	L=#FFDAE7	D=#36192A
+components-profile-photo-surface-purple	L=#E8E0FF	D=#242447
+components-profile-photo-surface-red	L=#FBD8DC	D=#321622
+components-profile-photo-surface-sky-blue	L=#CAECFA	D=#092C3D
+components-profile-photo-surface-teal	L=#CBF2EE	D=#092D2F
+components-profile-photo-surface-yellow	L=#FFF0D4	D=#362C1F
+components-surface-nav-bar	L=#F7F5F3	D=#1D1F1F
+content-action-default	L=#0A0A0A	D=#FAFAFA
+content-action-emphasized	L=#1B8755	D=#21C063
+content-deemphasized	L=rgba(0, 0, 0, .6)	D=rgba(255, 255, 255, .6)
+content-default	L=#0A0A0A	D=#FAFAFA
+content-disabled	L=#BDBDBD	D=#424445
+content-external-link	L=#1B8755	D=#21C063
+content-inverse	L=#FFFFFF	D=#0A0A0A
+content-on-accent	L=#FFFFFF	D=#0A0A0A
+content-read	L=#007BFC	D=#53BDEB
+lines-divider	L=rgba(0, 0, 0, .1)	D=rgba(255, 255, 255, .1)
+lines-outline-deemphasized	L=rgba(0, 0, 0, .2)	D=rgba(255, 255, 255, .1)
+lines-outline-default	L=#959393	D=#757778
+persistent-activity-indicator	L=#25D366	D=#25D366
+persistent-always-black	L=#0A0A0A	D=#0A0A0A
+persistent-always-branded	L=#1DAA61	D=#21C063
+persistent-always-white	L=#FFFFFF	D=#FFFFFF
+persistent-verified	L=#0085F4	D=#0085F4
+secondary-negative	L=#EA0038	D=#FB5061
+secondary-negative-deemphasized	L=#FDE8EB	D=#321622
+secondary-negative-emphasized	L=#B80531	D=#FA99A4
+secondary-positive	L=#1DAA61	D=#71EB85
+secondary-positive-deemphasized	L=#E7FCE3	D=#103529
+secondary-warning	L=#FFB938	D=#FFD279
+secondary-warning-deemphasized	L=#FFF7E5	D=#362C1F
+surface-default	L=#FFFFFF	D=#161717
+surface-elevated-default	L=#FFFFFF	D=#1D1F1F
+surface-elevated-emphasized	L=#F7F5F3	D=#242626
+surface-emphasized	L=#F7F5F3	D=#1D1F1F
+surface-highlight	L=rgba(194, 189, 184, .15)	D=rgba(255, 255, 255, .1)
+surface-inverse	L=#242626	D=#EEEEEE
+surface-pressed	L=rgba(0, 0, 0, .2)	D=rgba(255, 255, 255, .2)
+systems-attachment-drawing	L=#FF553B	D=#FF553B
+systems-bubble-content-business	L=rgba(0, 0, 0, .6)	D=#06CF9C
+systems-bubble-content-deemphasized	L=rgba(0, 0, 0, .6)	D=rgba(255, 255, 255, .6)
+systems-bubble-content-e2e	L=rgba(0, 0, 0, .6)	D=#FFD279
+systems-bubble-surface-business	L=#D5FDED	D=#1D1F1F
+systems-bubble-surface-e2e	L=#FFF0D4	D=#1D1F1F
+systems-bubble-surface-incoming	L=#FFFFFF	D=#242626
+systems-bubble-surface-outgoing	L=#D9FDD3	D=#144D37
+systems-bubble-surface-overlay	L=rgba(194, 189, 184, .15)	D=rgba(0, 0, 0, .2)
+systems-bubble-surface-system	L=rgba(255, 255, 255, .9)	D=#1D1F1F
+systems-chat-background-wallpaper	L=#F5F1EB	D=#161717
+systems-chat-foreground-wallpaper	L=#EAE0D3	D=rgba(255, 255, 255, .1)
+systems-chat-surface-composer	L=#FFFFFF	D=#242626
+systems-chat-surface-tray	L=#F7F5F3	D=#161717
+systems-status-seen	L=#C2BDB8	D=#757778

@@ -4,19 +4,41 @@ publish_to: 'none'
 version: 0.1.0+1
 
 environment:
-  sdk: ^3.12.1
+  sdk: ^3.13.1
 
 dependencies:
+  archive: ^4.0.9
+  bloc: ^9.1.0
+  dio: ^5.9.0
   flutter:
     sdk: flutter
+  flutter_bicubic_resize: ^1.5.3
+  freezed_annotation: ^3.1.0
+  get_it: ^9.2.1
+  image_picker: ^1.2.2
+  path: ^1.9.1
+  pro_image_editor: ^13.3.1
+  share_plus: ^13.3.0
 
 dev_dependencies:
+  build_runner: ^2.15.0
+  freezed: ^4.0.0
   flutter_test:
     sdk: flutter
   flutter_lints: ^6.0.0
   flutter_native_splash: ^2.4.8
 
 flutter:
+  # Bundles Material's icon font, which is the whole icon set: see WaIcons.
   uses-material-design: true
   assets:
-    - assets/
+    - assets/fonts/
+  fonts:
+    # WhatsApp Web serves its UI in Roboto Variable (two `@font-face` rules,
+    # both that family). This is the upstream Google Fonts release of the same
+    # face, unmodified: `Roboto[wdth,wght].ttf`, wght 100-900, wdth 75-100.
+    # The ramp declares no italic style, so the italic file is not bundled.
+    # SIL OFL 1.1 - assets/fonts/Roboto-OFL.txt.
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Variable.ttf

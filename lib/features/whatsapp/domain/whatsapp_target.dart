@@ -1,0 +1,1 @@
+enum WhatsAppTarget { consumer, business }
