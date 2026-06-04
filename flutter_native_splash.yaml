@@ -1,0 +1,19 @@
+flutter_native_splash:
+  # dart run flutter_native_splash:create
+  # dart run flutter_native_splash:remove
+  color: "#075E54"  ##====================================[REQUIRED]==========
+  color_dark: "#075E54"
+  image:                assets/splash.png
+  image_dark:          assets/splash.png
+  fullscreen: true                # default false
+  #! ANDROID 12+ configuration:
+  android_12:
+    # background color
+    color: "#075E54"
+    color_dark: "#075E54"
+    image: assets/splash12.png    
+    image_dark: assets/splash12.png  
+
+    # center-logo background color
+    icon_background_color: "#075E54"
+    icon_background_color_dark: "#075E54"
